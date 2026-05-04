@@ -1,0 +1,21 @@
+{
+  "monthly": {
+    "columns": 1,
+    "supporters": [
+      {
+        "name": "Dev_Morgan",
+        "imageAsset": "Dev_Morgan.png"
+      }
+    ]
+  },
+
+  "oneoff": {
+    "columns": 1,
+    "supporters": [
+      {
+        "name": "Dev_Morgan",
+        "imageAsset": "Dev_Morgan.png"
+      }
+    ]
+  }
+}
