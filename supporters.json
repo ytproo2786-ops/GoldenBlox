@@ -15,6 +15,10 @@
       {
         "name": "Dev_Morgan",
         "imageAsset": "Dev_Morgan.png"
+      },
+      {
+        "name": "Dev_Morgan TEST",
+        "imageAsset": "1.png"
       }
     ]
   }
