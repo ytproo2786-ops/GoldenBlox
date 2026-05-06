@@ -19,6 +19,10 @@
       {
         "name": "Szh",
         "imageAsset": "1.png"
+      },
+      {
+        "name": "Marin",
+        "imageAsset": "2.png"
       }
     ]
   }
